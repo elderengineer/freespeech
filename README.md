@@ -8,6 +8,7 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 # Hosting
 
 ## Cloud Computing / VPS / Data Center
+
 | Name | Description |
 | ---- | ----------- |
 |  |  |
@@ -57,4 +58,7 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 | ---- | ----------- |
 | [BitChute](https://www.bitchute.com/) | peer-to-peer content sharing platform. |
 | [LBRY / odysee](https://odysee.com/)  | decentralized, peer-to-peer content sharing platform. |
+| [Streamable](https://streamable.com) | Video streaming for bloggers and publishers. |
+
+
 
