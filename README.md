@@ -6,6 +6,12 @@
 If you want to help out with the project, here are some ideas (submit **Issues** & **Pull Requests** on the [GitHub page](https://github.com/elderengineer/freespeech)):
 
 # Hosting
+
+## Cloud Computing / VPS / Data Center
+| Name | Description |
+| ---- | ----------- |
+|  |  |
+
 ## DNS Venders
 
 | Name | Description |
@@ -16,6 +22,7 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 
 | Name | Description |
 | ---- | ----------- |
+|  |  |
 
 
 ## Email Provider
@@ -35,11 +42,14 @@ If you want to help out with the project, here are some ideas (submit **Issues**
 
 | Name | Description |
 | ---- | ----------- |
+|  |  |
 
 ## Payment Gateway
 
 | Name | Description |
 | ---- | ----------- |
+|  |  |
+
 
 ## Video Hosting
 
